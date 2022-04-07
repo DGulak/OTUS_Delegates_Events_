@@ -1,0 +1,8 @@
+D:\repos\123\Delegates_Events\bin\Debug\Delegates_Events.exe.config
+D:\repos\123\Delegates_Events\bin\Debug\Delegates_Events.exe
+D:\repos\123\Delegates_Events\bin\Debug\Delegates_Events.pdb
+D:\repos\123\Delegates_Events\obj\Debug\Delegates_Events.csproj.AssemblyReference.cache
+D:\repos\123\Delegates_Events\obj\Debug\Delegates_Events.csproj.SuggestedBindingRedirects.cache
+D:\repos\123\Delegates_Events\obj\Debug\Delegates_Events.csproj.CoreCompileInputs.cache
+D:\repos\123\Delegates_Events\obj\Debug\Delegates_Events.exe
+D:\repos\123\Delegates_Events\obj\Debug\Delegates_Events.pdb
